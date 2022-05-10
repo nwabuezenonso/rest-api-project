@@ -9,3 +9,6 @@ This project was developed with javascript mastery.
 [check out the youtube channel](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
 
 In this video, we will create a Node JS and Express JS CRUD REST API.
+
+## Set up
+run ```npm install and npm start ``` in the terminal
